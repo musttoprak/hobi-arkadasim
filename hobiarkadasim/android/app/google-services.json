@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281236875521",
+    "project_id": "hobiarkadasim-cd1ad",
+    "storage_bucket": "hobiarkadasim-cd1ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281236875521:android:d4677ad428fe1ca8655300",
+        "android_client_info": {
+          "package_name": "com.example.hobiarkadasim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZR20rHnM9qYSCoVoCHcfq4Y2lB4DZrdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

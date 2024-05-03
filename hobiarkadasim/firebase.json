@@ -1,0 +1,29 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "hobiarkadasim-cd1ad",
+          "appId": "1:281236875521:android:d4677ad428fe1ca8655300",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "hobiarkadasim-cd1ad",
+          "configurations": {
+            "android": "1:281236875521:android:d4677ad428fe1ca8655300",
+            "ios": "1:281236875521:ios:acc7e8bd7d509c7f655300"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
